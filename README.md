@@ -1,2 +1,10 @@
-# Total-Bots-List
-This Is Not A Repo Of Amy Project. We Made This Repo To Show Our Total Bots List So U Guys Can Use Them Easily. These Bots Are Made by DarkVerse. TELEGRAM- https://t.me/DarkVerseIndustries
+# Total Bots List 👇
+All Of These Bots Are Made By DarkVerse. 
+
+Bots👇
+1) @HinamiChanRobot ✅
+2) @PTstringgenerator_bot ✅ (unmaintained and not updated) 
+3) @Darkness_Music_Bot ✅
+4) @ForceSubscriber_Robot ✅
+
+More Coming Soon... Stay Tuned 😼
